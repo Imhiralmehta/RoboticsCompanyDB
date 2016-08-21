@@ -1,2 +1,3 @@
 # RoboticsCompanyDB
-Database of inventory system of a company
+Database of inventory AND order system of a company
+using Oracle PL/SQL
