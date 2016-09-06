@@ -1,4 +1,4 @@
---Name: Hiral Mehta, Student ID - 991343689, Final Project
+--Name: Hiral Mehta, Final Project
 
 --All tables are being dropped to avoid integrity error.
 DROP TABLE partInventory;
